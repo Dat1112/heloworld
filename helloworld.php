@@ -4,4 +4,5 @@ echo "comit 2";
 echo "t la bo m";
 uuuuuuu
 echo "GOAT Thịnh"
+echo gà
 ?>
