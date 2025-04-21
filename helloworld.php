@@ -6,4 +6,5 @@ uuuuuuu
 echo "GOAT Thịnh"
 echo gà
 echo diamond
+themdongnay
 ?>
