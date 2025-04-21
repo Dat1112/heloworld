@@ -5,4 +5,5 @@ echo "t la bo m";
 uuuuuuu
 echo "GOAT Thịnh"
 echo gà
+echo diamond
 ?>
